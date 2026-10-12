@@ -11,17 +11,16 @@ Written 11 Oct 2026 when work moved from the desktop to the laptop. Delete or re
 
 ## Next step
 
-Pick one product category (for example skincare, jewellery or supplements). Then follow the 30-day plan in `AI_INCOME_PATHS.md`:
+The goal, set 12 Oct 2026, is at least $1,000 received every month, with nothing spent before money is earned. The plan is `PLAN.md`; it is proposed, not yet accepted.
 
-1. Week 1: make 6 portfolio ads in that category.
-2. Week 2: list 500 US and UK brands in it.
-3. Weeks 3 and 4: send 50 to 100 messages a day. Target is 10 conversations and 1 paid pilot.
+Pick one product category (for example skincare, jewellery or supplements). Then start at days 1 to 3 of `PLAN.md`: make 1 image ad and 1 video ad with free tools only, to learn what can be made for nothing.
 
 ## What is in this repo
 
 | File | What it holds |
 |---|---|
-| `AI_INCOME_PATHS.md` | The eight paths, the evidence per video, the recommendation and the 30-day plan |
+| `PLAN.md` | The goal, the no-spend rule, the 90-day plan and the 12-month plan |
+| `AI_INCOME_PATHS.md` | The eight paths, the evidence per video and the recommendation |
 | `VIDEO_BUSINESS_MODELS.md` | Earlier research on how people and agencies earn from video |
 | `STRATEGY.md` | Business model row now points at both research docs; the rest still assumes an audience-first channel |
 
@@ -43,5 +42,12 @@ These live only on the desktop. The laptop will not have them unless they are co
 
 ## Git state
 
-- One branch, `docs/ai-income-paths`. There is no `main` yet.
+- `main` was created on 13 Oct 2026 from `docs/ai-income-paths`; both are on GitHub at the same commit.
+- GitHub's default branch is still `docs/ai-income-paths`, because it was the first branch pushed.
 - No pull request is open.
+
+## Agent harness
+
+Added 12 Oct 2026. The checker is in `.harness/`; hooks and deny rules for secret files are in `.claude/settings.json`. It checks links in every doc after each edit, before the agent stops and before each commit. Run `./setup.sh` once on each machine to get the pre-commit check. Commands are in `AGENTS.md` under Verification.
+
+Still open, all for the founder: set a permission mode, pin the Python version or not, and have someone other than the writer review a piece of work and log it in `.harness/reviews.md`.

@@ -6,6 +6,7 @@ Make the best videos in our niche and make money from them.
 
 | I want to... | Go to |
 |---|---|
+| See the plan to $1,000 a month | [docs/PLAN.md](docs/PLAN.md) |
 | Know what we make and how it pays | [docs/STRATEGY.md](docs/STRATEGY.md) |
 | Pick the next video | [docs/IDEAS.md](docs/IDEAS.md) |
 | Make a video | [docs/PIPELINE.md](docs/PIPELINE.md) |

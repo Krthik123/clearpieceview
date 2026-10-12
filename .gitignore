@@ -1,0 +1,12 @@
+# Secrets
+.env
+.env.*
+.envrc
+
+# Media is never committed (see AGENTS.md)
+videos/*/assets/
+videos/*/renders/
+
+# Local Claude Code settings
+.claude/settings.local.json
+CLAUDE.local.md

@@ -159,13 +159,9 @@ Second choice: lead generation as its own service, once you have run it for your
 
 Not first: agents and automation (2 to 3 month sales cycle, face-to-face closing, and someone must fix what breaks), own software and content (consumer income, slow, weak results in the playlist).
 
-### First 30 days
+### The plan
 
-| Week | Do | Done when |
-|---|---|---|
-| 1 | Pick one product category. In the Meta Ad Library, find ads that have run 2 to 3 months (#29 [2:00] treats that as a sign they pay). Recreate 6 of them with AI for a portfolio. | 6 ads you would show a buyer |
-| 2 | List 500 US and UK brands in that category that are running ads now, with the founder's or marketer's email (#31 [2:00]). | 500 rows |
-| 3 to 4 | Send 50 to 100 messages a day. Make a sample ad only for brands that reply (#31). Reply within the hour (#12). | 10 conversations, 1 paid pilot |
+The 30-day plan that stood here moved to [PLAN.md](PLAN.md) on 12 Oct 2026. That file adds the $1,000 a month goal, the rule that nothing is spent before money is earned, and the months after the first client.
 
 At the 1 to 3% rate above, 500 contacts give about 5 to 15 interested replies.
 

@@ -1,0 +1,50 @@
+{
+  "version": 1,
+  "instruction_files": [
+    "CLAUDE.md",
+    "AGENTS.md"
+  ],
+  "instruction_max_lines": 150,
+  "session_start_files": [
+    "CLAUDE.md",
+    "AGENTS.md",
+    "docs/HANDOFF.md",
+    "docs/STRATEGY.md",
+    "docs/PIPELINE.md",
+    "docs/QUALITY_BAR.md"
+  ],
+  "session_start_max_lines": 300,
+  "state_files": [
+    "docs/HANDOFF.md"
+  ],
+  "decision_files": [
+    "docs/STRATEGY.md"
+  ],
+  "docs": {
+    "include": [
+      "**/*.md"
+    ],
+    "exclude": [
+      ".git/**",
+      "node_modules/**",
+      ".venv/**",
+      "venv/**",
+      "dist/**",
+      "build/**",
+      "target/**",
+      "vendor/**"
+    ]
+  },
+  "links": {
+    "exempt": []
+  },
+  "frontmatter": null,
+  "naming": null,
+  "index": null,
+  "commands": [],
+  "main_branches": [
+    "main",
+    "master"
+  ],
+  "max_uncommitted": 10
+}
