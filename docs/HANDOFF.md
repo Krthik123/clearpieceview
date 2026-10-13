@@ -6,23 +6,25 @@ Written 11 Oct 2026 when work moved from the desktop to the laptop. Delete or re
 
 - **Goal:** earn money with AI, selling to businesses in other countries from India.
 - **Research done:** 37 videos from the `clearpieceview` YouTube playlist were read and sorted into eight income paths. The result is `AI_INCOME_PATHS.md`.
-- **Recommended path:** sell AI ad creative to US and UK consumer brands, and find them through cold outreach. Second choice is lead generation as a service. This is a judgment, not a result: no client has been contacted yet.
-- **Decision still open:** the path has not been accepted, and no product category has been picked.
+- **Path, decided 13 Oct 2026:** path 1 only: AI ad creative (image and video ads) for consumer brands, found through cold outreach. No client has been contacted yet.
+- **Markets, decided 13 Oct 2026:** Kuwait, the UK, Switzerland, Ireland and the US, chosen by how strong each currency is against the rupee. The rates, and why a strong currency does not mean a bigger sale, are in `ROADMAP.md`, Part 2.
+- **Decision still open:** no product category has been picked.
 
 ## Next step
 
-The goal, set 12 Oct 2026, is at least $1,000 received every month, with nothing spent before money is earned. The plan is `PLAN.md`; it is proposed, not yet accepted.
+The goal, set 12 Oct 2026, is at least $1,000 received every month, with nothing spent before money is earned. The plan is `PLAN.md`; its path is accepted, its timetable and numbers are still proposed.
 
-Pick one product category (for example skincare, jewellery or supplements). Then start at days 1 to 3 of `PLAN.md`: make 1 image ad and 1 video ad with free tools only, to learn what can be made for nothing.
+`ROADMAP.md`, written 13 Oct 2026 and also proposed, maps the whole business in 26 dots and lists 13 the plan leaves out. The path and the markets are decided. Next is dot 2: pick one product category with its six questions, counting brands in each of the five countries. Then go to dot 4: read each free tool's terms, and make 1 image ad and 1 video ad with free tools only.
 
 ## What is in this repo
 
 | File | What it holds |
 |---|---|
+| `ROADMAP.md` | The whole business in four parts, the dots missing between them, and the order to do everything in |
 | `PLAN.md` | The goal, the no-spend rule, the 90-day plan and the 12-month plan |
 | `AI_INCOME_PATHS.md` | The eight paths, the evidence per video and the recommendation |
 | `VIDEO_BUSINESS_MODELS.md` | Earlier research on how people and agencies earn from video |
-| `STRATEGY.md` | Business model row now points at both research docs; the rest still assumes an audience-first channel |
+| `STRATEGY.md` | Business model row is set to path 1; the rows below it still assume an audience-first channel |
 
 ## What is not in this repo
 

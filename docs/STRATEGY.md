@@ -2,11 +2,11 @@
 
 ## Open decisions
 
-Nothing below is confirmed yet. Each row has a default so work can start; change the row when you decide.
+Only the Business model row is confirmed. Every other row has a default so work can start; change the row when you decide.
 
 | Decision | Default (unconfirmed) | Why this default |
 |---|---|---|
-| Business model | **Not set** | Service, audience, asset, or knowledge. The options and evidence are in `VIDEO_BUSINESS_MODELS.md` (video only) and `AI_INCOME_PATHS.md` (any AI income, from the saved playlist; it recommends AI ad creative sold to US and UK brands). The rows below assume an audience-first channel. |
+| Business model | **Service: AI ad creative for consumer brands.** Decided 13 Oct 2026 | Path 1 in `AI_INCOME_PATHS.md`. The five target countries and the order of work are in `ROADMAP.md`; the numbers are in `PLAN.md`. The rows below were written for an audience-first channel and have not been revised. |
 | Niche | **Not set** | Everything else depends on it. See "Picking the niche". |
 | Primary platform | YouTube | Long shelf life, search traffic, and the widest set of ways to earn. |
 | Format | Long-form first, Shorts cut from each video | One recording feeds both; long-form earns more per viewer. |
